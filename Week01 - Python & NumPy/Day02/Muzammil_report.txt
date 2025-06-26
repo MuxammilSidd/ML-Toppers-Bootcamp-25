@@ -1,0 +1,7 @@
+Name: Muzammil
+Age: 19
+Math: 85
+English: 75
+Urdu: 70
+Average: 76.67
+Grade: B
