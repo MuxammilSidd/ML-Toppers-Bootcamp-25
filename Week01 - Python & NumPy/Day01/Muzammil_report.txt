@@ -1,0 +1,7 @@
+Name: Muzammil
+Age: 19
+Math: 100
+English: 90
+Physics: 75
+Avg: 83.33333333333333
+Grade: A
